@@ -15,6 +15,6 @@ public class test {
         Pair pair = new Pair(4, 5);
         System.out.println(pair);
         pair.swap();
-        System.out.println("!!!!!!!!!");
+        System.out.println("123");
     }
 }
