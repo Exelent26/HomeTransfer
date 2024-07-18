@@ -1,0 +1,20 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¸²øÿÿÿÿ8ÙÅÉÔƒ2J$d46120f2-98a4-432f-89a9-3c47e247de2c
+€
+java:S1854"8Remove this useless assignment to local variable "meal".(İïşÓøÿÿÿÿ8ÚÅÉÔƒ2J$ab8e8efc-f89c-42b9-8a98-8e129a189c82
+ƒ
+java:S1854
+";Remove this useless assignment to local variable "surname".(ù±²ùÿÿÿÿ8ÚÅÉÔƒ2J$a37f41b3-a40d-47cf-a80b-8fdd6200d80e
+{
+java:S1854	"8Remove this useless assignment to local variable "name".( Ø•š8ÚÅÉÔƒ2J$c235393e-eb1d-4f49-95cf-ca46728b5840
+l
+java:S1481	")Remove this unused "name" local variable.( Ø•š8ÛÅÉÔƒ2J$db85d87b-5597-43c4-9e13-804b135cbb01
+t
+java:S1481
+",Remove this unused "surname" local variable.(ù±²ùÿÿÿÿ8ÛÅÉÔƒ2J$8a3b8acb-018c-43b2-8860-d714eaf2759c
+q
+java:S1481")Remove this unused "meal" local variable.(İïşÓøÿÿÿÿ8ÛÅÉÔƒ2J$ddb919ee-761c-4923-8155-9dadbd18a3c1
+m	java:S106"+Replace this use of System.out by a logger.(ÓŞµ8ÜÅÉÔƒ2J$fe59a71f-2fd2-4fae-ab58-145b3cf4784a
+r	java:S106"+Replace this use of System.out by a logger.(ş©º’ûÿÿÿÿ8ÜÅÉÔƒ2J$bfb9f24d-88b9-4eb0-a18a-0467137f944f
+r	java:S106"+Replace this use of System.out by a logger.(ø†®×üÿÿÿÿ8ÜÅÉÔƒ2J$8db5895a-5a3b-4272-a4e3-7d74877f3585
+m	java:S106"+Replace this use of System.out by a logger.(äÔÑ”8ÜÅÉÔƒ2J$5f57eefd-3563-4d01-9ac1-e462fac2ebd9

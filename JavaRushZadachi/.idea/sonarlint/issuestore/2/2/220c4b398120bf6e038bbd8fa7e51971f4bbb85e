@@ -1,0 +1,45 @@
+
+”	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(’ïÃ¯ıÿÿÿÿ8¬ğèÖ„2J$a2d29fc5-3684-485e-8e5d-30b265d0dc6a
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”¸²øÿÿÿÿ8­ğèÖ„2J$f8d3f267-0f28-4d48-b9b9-16372a55f73a
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Å÷ÜÁùÿÿÿÿ8­ğèÖ„2J$a38d0e79-b305-47ed-8cf8-ed7780706fcc
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Î×¢ùÿÿÿÿ8­ğèÖ„2J$bfc9edf0-a58f-4459-9f8c-cab31c040dc5
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(èıï€8­ğèÖ„2J$127ba26a-194d-4fda-b729-7df573b7c44a
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ÇÓ‰¾ıÿÿÿÿ8­ğèÖ„2J$fbcdbc59-7090-42b8-955f-66d2f862f71f
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(Åø¨ûÿÿÿÿ8­ğèÖ„2J$e8669b24-34bb-451b-8057-c70d3ff085f5
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ø±£Ïıÿÿÿÿ8­ğèÖ„2J$8a144ebc-cca7-4bc8-a82a-95604f00ebac
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(öûÂíøÿÿÿÿ8­ğèÖ„2J$fc904bf6-e9db-4e33-a4e1-ad1fc6bff906
+”
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ñù¢Èùÿÿÿÿ8Ü‘ìÖ„2J$7ee16e0a-dbc6-425e-924a-8bb88559607c
+
+java:S1223"LRename this method to prevent any misunderstanding or make it a constructor.(ñüä8ï³îÖ„2J$1f4db32d-1054-4f9e-931e-0e53cf23082c
+”
+java:S1223!"LRename this method to prevent any misunderstanding or make it a constructor.(¡‘š­øÿÿÿÿ8ï³îÖ„2J$cd6e4de9-0f80-4538-bdcf-a3e9560e9191
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Çµí‘8­ğèÖ„2J$7c80ae32-d6cf-434d-9b57-f045841d24b2
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Å÷ÜÁùÿÿÿÿ8­ğèÖ„2J$dfa4c085-f81b-45ae-bc54-17c7b4f20424
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Î×¢ùÿÿÿÿ8­ğèÖ„2J$1a4d33c8-ea6c-417f-9d6f-6fec7ebd4ffb
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(èıï€8­ğèÖ„2J$5e06f487-f02c-4944-a619-bd47bb0ab2c4
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ÇÓ‰¾ıÿÿÿÿ8­ğèÖ„2J$c89093a2-7cf2-4ca7-b0a0-2b2a4977d343
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Åø¨ûÿÿÿÿ8­ğèÖ„2J$ed9e7960-0aa2-47cf-897b-3af5de64f4d5
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ø±£Ïıÿÿÿÿ8­ğèÖ„2J$53ce5f19-89e7-4195-ba92-a24ec3a0e84c
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(öûÂíøÿÿÿÿ8­ğèÖ„2J$a3fded0a-00e2-4c83-a74c-5ba9a1163908
+É
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñù¢Èùÿÿÿÿ8Ş‘ìÖ„2J$f7aeb9f9-aac4-41a5-bd24-05972568bcb1
+Ä
+java:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ñüä8ğ³îÖ„2J$4908cce4-66ae-48f4-a5db-7fb52c01aff3
+É
+java:S1186!"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¡‘š­øÿÿÿÿ8ğ³îÖ„2J$abb9a1db-99ea-4b81-83f1-735d5cf7f2fe

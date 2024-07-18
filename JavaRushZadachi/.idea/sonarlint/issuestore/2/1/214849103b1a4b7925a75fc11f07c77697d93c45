@@ -1,0 +1,11 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¶ã€ıÿÿÿÿ8Ö³Íüş1J$0e4a8752-26df-417a-a37e-d2d9f4dbd655
+™
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(ëÉûÛÿÿÿÿÿ8×³Íüş1J$e70b15aa-3747-4e94-b41c-32beb05a475e
+s
+java:S1444"+Make this "public static array" field final(ëÉûÛÿÿÿÿÿ8×³Íüş1J$86949f8d-4604-4ec1-9b3e-7126bbb925d5
+´
+java:S1130"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙØ¤Şıÿÿÿÿ8Ù³Íüş1J$0f40d9ab-1fc7-484e-91d0-372d654d541d
+h
+java:S2386" Make member "array" "protected".(Óä·›øÿÿÿÿ8Ú³Íüş1J$87405010-4a59-45b0-8b44-989fd3c324e1
+r	java:S106"+Replace this use of System.out by a logger.(¾ùôŒùÿÿÿÿ8Û³Íüş1J$93db9ed3-ebb5-4e4d-9183-c13e77938027

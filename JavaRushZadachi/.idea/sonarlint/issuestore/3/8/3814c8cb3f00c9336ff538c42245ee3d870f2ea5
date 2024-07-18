@@ -1,0 +1,16 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.( Ëğ8±æò¶2J$0672ac55-1c43-42d4-99cf-3661215f3ec8
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûËƒÉüÿÿÿÿ8±æò¶2J$141e43a3-208c-4e9a-a75a-6827e5b443fa
+•
+java:S1104"RMake result a static final constant or non-public and provide accessors if needed.(†­“¶8±æò¶2J$651cd497-56fb-47fd-baad-58a7061b87f2
+™
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(‘”øşÿÿÿÿ8±æò¶2J$d33cf589-9381-4a8b-b4cf-eb5731cf6184
+o
+java:S1444",Make this "public static result" field final(†­“¶8±æò¶2J$9ab87e6e-3c67-4ccb-86a1-6df246036418
+s
+java:S1444"+Make this "public static array" field final(‘”øşÿÿÿÿ8±æò¶2J$65b6f9ef-40ac-45af-956c-f85d3f4ad359
+`
+java:S2386"Make this member "protected".(†­“¶8²æò¶2J$7539d569-daed-4c54-8b92-6a93d487e37c
+e
+java:S2386"Make this member "protected".(‘”øşÿÿÿÿ8²æò¶2J$7fa3c13c-83eb-499d-afa1-59241319daba
+r	java:S106"+Replace this use of System.out by a logger.(™şÏüÿÿÿÿ8³æò¶2J$d7a25cf1-65fb-4094-8788-336406c78db3

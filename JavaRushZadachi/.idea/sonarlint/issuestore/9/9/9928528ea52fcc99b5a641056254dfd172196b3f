@@ -1,0 +1,9 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¶ã€ýÿÿÿÿ8‚«„Éÿ1J$1cb1d4e3-cd4d-4c41-82cd-3c684ba3f28f
+–
+java:S1104	"SMake strings a static final constant or non-public and provide accessors if needed.(Å€®«8‚«„Éÿ1J$29b0e90a-c3a5-4a21-8f2d-88f65f9f4861
+p
+java:S1444	"-Make this "public static strings" field final(Å€®«8ƒ«„Éÿ1J$fa71bf23-33c0-4e84-ae3e-ea8673bc31ca
+?
+java:S2386""Make member "strings" "protected".(”Èéô8‹÷•Éÿ1
+r	java:S106$"+Replace this use of System.out by a logger.(õ–Ðûÿÿÿÿÿ8«â“Éÿ1J$ba586026-8cc0-492d-88cf-37690d93f6f9

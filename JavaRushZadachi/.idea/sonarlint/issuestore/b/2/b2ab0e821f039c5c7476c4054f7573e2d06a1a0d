@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¶ã€ıÿÿÿÿ8÷ÛÃÉ€2J$6caf1c3e-cb99-4dbd-9eb4-3681533b03d6
+™
+java:S1104"VMake multiArray a static final constant or non-public and provide accessors if needed.(¦Û¬›8÷ÛÃÉ€2J$c5764b5d-2577-4fd3-9699-4ae1d5f17dce
+s
+java:S1444"0Make this "public static multiArray" field final(¦Û¬›8÷ÛÃÉ€2J$98418710-2b32-4553-8e0e-be6551947ef7
+A
+java:S2386"%Make member "multiArray" "protected".(ß¥›!8ìÇÉ€2
+l	java:S106"+Replace this use of System.out by a logger.(Ó¥ 8úÛÃÉ€2J$c0128788-20f4-4840-9bca-f561b5e170c6
+r	java:S106"+Replace this use of System.out by a logger.(ªÓ¼áşÿÿÿÿ8ïÖÅÉ€2J$bb3eef92-4d5e-46e7-9fea-e34cf80320af

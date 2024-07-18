@@ -1,0 +1,17 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûËƒÉüÿÿÿÿ8°ËÓ°2J$9733bb77-e955-4d12-825c-e2e8d1cb1cc3
+™
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(ú‡ñıÿÿÿÿ8°ËÓ°2J$1a586eff-a282-4861-9fed-d7083ae911b7
+
+java:S1104"VMake valueStart a static final constant or non-public and provide accessors if needed.(¨û¨Åÿÿÿÿÿ8°ËÓ°2J$dfed388e-94ed-49ee-8fa7-3d3a6713f3dd
+œ
+java:S1104"TMake valueEnd a static final constant or non-public and provide accessors if needed.(–Æƒ¹üÿÿÿÿ8°ËÓ°2J$d4f2ec91-c00f-4336-8a78-c33b68dfcab7
+s
+java:S1444"+Make this "public static array" field final(ú‡ñıÿÿÿÿ8°ËÓ°2J$6abb71df-5085-42d2-9aba-6185b2456b52
+x
+java:S1444"0Make this "public static valueStart" field final(¨û¨Åÿÿÿÿÿ8°ËÓ°2J$8b8021ef-38f2-42fc-bd77-58580ec8274d
+v
+java:S1444".Make this "public static valueEnd" field final(–Æƒ¹üÿÿÿÿ8°ËÓ°2J$5cc9049d-726b-4b79-a0ad-4830adce081d
+e
+java:S2386"Make this member "protected".(ú‡ñıÿÿÿÿ8±ËÓ°2J$239309ec-e58e-4e32-b4c6-9d2cfe182788
+r	java:S106"+Replace this use of System.out by a logger.(ƒìîüıÿÿÿÿ8³ËÓ°2J$4a77ffea-24b8-40ad-b241-069cf7b82112

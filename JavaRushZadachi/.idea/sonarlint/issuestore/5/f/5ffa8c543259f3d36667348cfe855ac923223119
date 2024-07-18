@@ -1,0 +1,16 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûËƒÉüÿÿÿÿ8¶Šª¸2J$f19193e7-ac94-480b-94aa-a91ab46098c7
+“
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(´£›O8¶Šª¸2J$b7ee7973-4011-470c-97f7-b5fa4eeff710
+›
+java:S1104"SMake element a static final constant or non-public and provide accessors if needed.(ÕûšÀûÿÿÿÿ8¶Šª¸2J$241c0ffc-1327-46b4-a329-8f8cea3edb22
+m
+java:S1444"+Make this "public static array" field final(´£›O8¶Šª¸2J$26fca49a-c718-4f4a-a1f2-a20d09d4760f
+u
+java:S1444"-Make this "public static element" field final(ÕûšÀûÿÿÿÿ8¶Šª¸2J$c0cfe9fa-3f92-4c92-a080-c7b4997328f0
+_
+java:S2386"Make this member "protected".(´£›O8·Šª¸2J$528529fa-f706-44f7-838c-714de855003c
+…
+java:S1126"BReplace this if-then-else statement by a single method invocation.(ĞÂÓü8¸Šª¸2J$ff3cc351-a9da-42cc-ac1c-5a6a4171391a
+r	java:S106"+Replace this use of System.out by a logger.(ûãÁùùÿÿÿÿ8¸Šª¸2J$b08e7f8a-f37e-4a4f-b851-aed168a33c95
+r	java:S106"+Replace this use of System.out by a logger.(ı·‡‘øÿÿÿÿ8¹Šª¸2J$d5980816-9e23-4915-997e-fd393151e984

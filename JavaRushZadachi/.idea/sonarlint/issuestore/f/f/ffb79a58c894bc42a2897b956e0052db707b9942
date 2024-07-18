@@ -1,0 +1,10 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ûËƒÉüÿÿÿÿ8¼ãÿ·2J$67e9216f-3fcd-4c4d-8c86-515bb55258e6
+“
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(´£›O8¼ãÿ·2J$85777bf4-c2a7-4075-aee7-1d10250afc53
+m
+java:S1444"+Make this "public static array" field final(´£›O8¼ãÿ·2J$519be07f-4ba3-4dc2-a4bc-2a0971a9b2ca
+_
+java:S2386"Make this member "protected".(´£›O8½ãÿ·2J$810afae5-e978-4d80-90e1-b055325723f9
+r	java:S106
+"+Replace this use of System.out by a logger.(ƒìîüıÿÿÿÿ8¾ãÿ·2J$816b119e-4469-4d71-a992-2b399e54b971

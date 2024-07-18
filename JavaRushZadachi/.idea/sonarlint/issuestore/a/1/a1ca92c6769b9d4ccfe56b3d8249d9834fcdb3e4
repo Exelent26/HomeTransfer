@@ -1,0 +1,9 @@
+
+˜	java:S117
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Íç±Áıÿÿÿÿ8êŒ‰‘ÿ1J$f31d8072-ba45-4209-a37d-9f6c10db3c49
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¶ã€ıÿÿÿÿ8êŒ‰‘ÿ1J$321bc382-c186-4877-be56-e913b8c46777
+™
+java:S1104"QMake array a static final constant or non-public and provide accessors if needed.(ëÉûÛÿÿÿÿÿ8êŒ‰‘ÿ1J$0dff4b90-7e0f-426e-9d9d-01019d4d56c2
+s
+java:S1444"+Make this "public static array" field final(ëÉûÛÿÿÿÿÿ8ëŒ‰‘ÿ1J$25413b11-9878-40a5-96d2-f5cceafdfc28
+m	java:S106"+Replace this use of System.out by a logger.(Å¶áç8ïŒ‰‘ÿ1J$55729901-984b-40fe-b69f-365468c56d77

@@ -1,0 +1,24 @@
+
+	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ƒÈµè8çÂÁûş1J$88074d87-767d-478f-af94-79c5f4845736
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(˜¶ã€ıÿÿÿÿ8çÂÁûş1J$cc774769-8d0b-47ee-a996-54e9cf90627c
+™
+java:S1104"VMake firstArray a static final constant or non-public and provide accessors if needed.(İ¶´‰8çÂÁûş1J$f20cd5b1-6ffe-4178-b234-1d1db92e77d7
+š
+java:S1104"WMake secondArray a static final constant or non-public and provide accessors if needed.(•íğ¿8çÂÁûş1J$2f6f767b-f0a0-4a6c-9671-6e555ff3b224
+š
+java:S1104"WMake resultArray a static final constant or non-public and provide accessors if needed.(”ĞÄñ8çÂÁûş1J$0eb379be-8630-4acd-8a2f-39eb4ae07014
+s
+java:S1444"0Make this "public static firstArray" field final(İ¶´‰8çÂÁûş1J$318597b4-e88a-4f85-bf71-669d72f48bd5
+t
+java:S1444"1Make this "public static secondArray" field final(•íğ¿8èÂÁûş1J$2aa9692b-5046-4f25-84de-a4316e66c71f
+t
+java:S1444"1Make this "public static resultArray" field final(”ĞÄñ8èÂÁûş1J$f33e7c87-ba72-4096-9efd-b3665a241a3c
+`
+java:S2386"Make this member "protected".(İ¶´‰8èÂÁûş1J$c91a2cd2-cb8d-4ebb-8474-4049cf9e8689
+`
+java:S2386"Make this member "protected".(•íğ¿8èÂÁûş1J$0d2f2abb-34f8-408f-ad49-ab60dff6205a
+n
+java:S2386	"&Make member "resultArray" "protected".(Œ¤ßúÿÿÿÿ8ÕâÃûş1J$26f3b2ee-5265-4359-8ed6-7e7050866c23
+œ
+java:S3012"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(³¤Ìõ8êÂÁûş1J$c11850c3-1c5a-4089-96db-50eb6944ffaa
+r	java:S106"+Replace this use of System.out by a logger.(¶»½Ğşÿÿÿÿ8êÂÁûş1J$1e85e33e-4ec4-4807-8df2-feabaa54f00a
