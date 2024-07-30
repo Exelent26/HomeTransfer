@@ -1,7 +1,18 @@
 package lvl10;
 
+import java.util.Scanner;
+
 public class test3 {
     public static void main(String[] args) {
-        System.out.println("It's a Windows path: \"C:\\Program Files\\Java\\jdk-13.0.0\\bin\"\nIt's a Java string: \\\"C:\\\\Program Files\\\\Java\\\\jdk-13.0.0\\\\bin\\\"");
+        Scanner console = new Scanner(System.in);
+        String path = console.nextLine();
+
+        String[] array = path.split("/");
+
+
+        String result = String.join("\\\\", array);
+
+
+        System.out.println(result);
     }
 }
