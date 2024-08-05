@@ -5,39 +5,44 @@ public class ClassesAndObjects {
 
 
         Person person1 = new Person();
-        person1.setNameAndAge("Evgeniy", 31);
-        person1.setAge(31);
-        String s1 = "Vladimir";
-        person1.speak();
-
-
-        Person person2 = new Person();
-        person2.setNameAndAge(s1, 35);
-        person2.speak();
-
-
+        person1.setName("");
+        person1.setAge(12);
+        System.out.println(person1.getName());
+        System.out.println(person1.getAge());
 
     }
 }
 
 class Person {
-    String name;
-    int age;
+    private String name;
+    private int age;
 
-    void setNameAndAge(String username, int userage){
-        name = username;
-        age= userage;
-
+    public void setName(String username){
+        if (username.isEmpty()){
+            System.out.println("ты ввел пустое имя");
+        }else{
+            name = username;
+        }
     }
-    void setAge(int vozrast){
-        age = vozrast;
+    public String getName(){
+
+        return name;
+    }
+    public void setAge(int userAge){
+        if (userAge<=0){
+            System.out.println("ты ввел некоректный возраст, он должен быть положительный");
+        }else {
+            age = userAge;
+        }
+    }
+    public int getAge(){
+        return age;
     }
 
     int vichislenieLetDoPensii() {
         int years = 65 - age;
         return years;
     }
-
     void speak() {
         System.out.println("My name is - " + name + " " + " mne" + " " + age);
 
