@@ -5,21 +5,16 @@ import java.util.Arrays;
 public class razvorot {
     public static void main(String[] args) {
         int [] x = {5,4,3,2,1};
-        for (int e = 0; e < x.length; e++) {
-            System.out.print(x[e] + " ");
-        }
-        System.out.println();
+        System.out.println(Arrays.toString(x));
 
         for(int i = 0,j = x.length-1;i<=x.length/2&&j>=x.length/2; i++, j--){
-        int temp = x[i];
-        x[i] = x[j];
-        x[j] = temp;
+            int temp = x[i];
+            x[i] = x[j];
+            x[j] = temp;
 
         }
         System.out.println(Arrays.toString(x));
-        /*for (int i = 0; i < x.length; i++) {
-            System.out.print(x[i]+ " ") ;
-        }*/
+
 
     }
 
