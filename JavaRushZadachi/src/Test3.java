@@ -1,9 +1,15 @@
 import java.util.Scanner;
-
-public class Test3 {
+class Test3 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        String x = scanner.next();
-        System.out.println(x.length());
+
+        int count = 0;
+        while(scanner.hasNext()==true){
+            String n = scanner.next();
+            count++;
+        }
+        System.out.println(count);
+
+
     }
 }
